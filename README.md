@@ -14,7 +14,7 @@ Lớp:CTT12CD3A
 
 4.<a href="https://github.com/HuyThirtyminutes/BasicView">Các views cơ bản trong giao diện ứng dụng Android.</a>
 
-5.<a href="https://github.com/HuyThirtyminutes/BasicView">Sự kiện và xử lý sự kiện trong Android</a>
+5.<a href="https://github.com/HuyThirtyminutes/BasicView">Sự kiện và xử lý sự kiện trong Android.</a>
 
 6.<a href="https://github.com/HuyThirtyminutes/MotionEvent/tree/master">Sự kiện và xử lý sự kiện touch (chạm) và multi-touch (đa chạm) trong Android.</a>
 
