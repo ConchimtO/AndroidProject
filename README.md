@@ -12,11 +12,17 @@ Lớp:CTT12CD3A
 
 3.<a href="https://drive.google.com/file/d/1oX7MmWc6hnJa2jm0T13XIeRlAGIwj17q/view?usp=sharing">Thiết kế giao diện người dùng với công cụ thiết kế Android Studio.</a>
 
-4.<a href="https://github.com/HuyThirtyminutes/BasicView">Các views cơ bản trong giao diện ứng dụng Android</a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
+4.<a href="https://github.com/HuyThirtyminutes/BasicView">Các views cơ bản trong giao diện ứng dụng Android.</a>
+
+5.<a href="https://github.com/HuyThirtyminutes/BasicView">Sự kiện và xử lý sự kiện trong Android</a>
+
+6.<a href="https://github.com/HuyThirtyminutes/MotionEvent/tree/master">Sự kiện và xử lý sự kiện touch (chạm) và multi-touch (đa chạm) trong Android.</a>
+
+7.<a href="https://github.com/HuyThirtyminutes/CommonGestures/tree/master">Phát hiện cử chỉ người dùng với lớp Android Gesture Detector.</a>
+
+8.<a href="https://github.com/HuyThirtyminutes/FragmentExampleActivtiy/tree/master">Fragments trong Android</a>
+
+9.<a href="https://github.com/HuyThirtyminutes/MenuExampleActivity/tree/master">Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android</a>
 
 
 
