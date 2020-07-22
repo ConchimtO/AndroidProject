@@ -35,8 +35,8 @@ Lớp:CTT12CD3A
 11.<a href="https://github.com/HuyThirtyminutes/Calculator/tree/master">(Bài tập) Tạo một ứng dụng trên android studio.</a>
 
 
-Biên tập vào ngày 7/22/2020
+Biên tập vào ngày 7/22/2020.
 
-Thực hiện bởi Nguyễn Gia Huy
+Thực hiện bởi: Nguyễn Gia Huy.
  
- ![image](https://data.yiff.party/patreon_data/470718/37758043/65869125/2se.jpg)
+ ![image](https://cdna.artstation.com/p/assets/images/images/028/724/424/large/alessandro-poli-ill-longtooth.jpg?1595330125)
