@@ -20,9 +20,17 @@ Lớp:CTT12CD3A
 
 7.<a href="https://github.com/HuyThirtyminutes/CommonGestures/tree/master">Phát hiện cử chỉ người dùng với lớp Android Gesture Detector.</a>
 
-8.<a href="https://github.com/HuyThirtyminutes/FragmentExampleActivtiy/tree/master">Fragments trong Android</a>
+8.<a href="https://github.com/HuyThirtyminutes/MenuExampleActivity/tree/master">Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android.</a>
 
-9.<a href="https://github.com/HuyThirtyminutes/MenuExampleActivity/tree/master">Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android</a>
+8.1.<a href="https://github.com/HuyThirtyminutes/MenuExample/tree/master">Bài tập liên quan.</a>
+
+9.<a href="https://github.com/HuyThirtyminutes/FragmentExampleActivtiy/tree/master">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 1).</a>
+
+10.<a href="https://github.com/HuyThirtyminutes/SQLiteDemoApplicationActivity/tree/master">Lập trình cơ sở dữ liệu trong Android (Phần 1).</a>
+
+11.<a href="https://github.com/HuyThirtyminutes/Calculator/tree/master">Tạo một ứng dụng trên android studio.</a>
+
+
 
 
 
