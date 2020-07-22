@@ -22,7 +22,7 @@ Lớp:CTT12CD3A
 
 8.<a href="https://github.com/HuyThirtyminutes/MenuExampleActivity/tree/master">Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android.</a>
 
-8.1.<a href="https://github.com/HuyThirtyminutes/MenuExample/tree/master">Bài tập liên quan.</a>
+8.1.<a href="https://github.com/HuyThirtyminutes/MenuExample/tree/master">Bài tập liên quan "Tạo và quản lý thực đơn tùy chọn (overflow menus) trong Android" .</a>
 
 9.<a href="https://github.com/HuyThirtyminutes/FragmentExampleActivtiy/tree/master">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 1).</a>
 
