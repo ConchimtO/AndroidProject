@@ -2,7 +2,7 @@
 
 NGUYỄN GIA HUY
 
-lớp:CTT12CD3A
+Lớp:CTT12CD3A
 
  0.<a href="https://ngocminhtranblog.blogspot.com/2018/08/lap-trinh-android.html">Tham Khảo Học Tập Về android Studio.</a>
 
