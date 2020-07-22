@@ -33,3 +33,10 @@ Lớp:CTT12CD3A
 10.<a href="https://github.com/HuyThirtyminutes/SQLiteDemoApplicationActivity/tree/master">Lập trình cơ sở dữ liệu trong Android (Phần 1).</a>
 
 11.<a href="https://github.com/HuyThirtyminutes/Calculator/tree/master">(Bài tập) Tạo một ứng dụng trên android studio.</a>
+
+
+Biên tập vào ngày 7/22/2020
+
+Thực hiện bởi Nguyễn Gia Huy
+ 
+ https://data.yiff.party/patreon_data/470718/36489897/61873210/39se.jpg
