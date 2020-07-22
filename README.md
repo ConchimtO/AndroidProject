@@ -39,4 +39,4 @@ Biên tập vào ngày 7/22/2020
 
 Thực hiện bởi Nguyễn Gia Huy
  
- https://data.yiff.party/patreon_data/470718/36489897/61873210/39se.jpg
+ ![image](https://data.yiff.party/patreon_data/470718/36489897/61873210/39se.jpg)
