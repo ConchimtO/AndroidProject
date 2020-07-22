@@ -10,7 +10,7 @@ Lớp:CTT12CD3A
 
 2.<a href="https://github.com/HuyThirtyminutes/lmao/tree/master">Introduction to Android Programming in Android Studio.</a>
 
-3.<a href="https://drive.google.com/file/d/1oX7MmWc6hnJa2jm0T13XIeRlAGIwj17q/view?usp=sharing">Thiết kế giao diện người dùng với công cụ thiết kế Android Studio(GG Drive).</a>
+3.<a href="https://drive.google.com/file/d/1oX7MmWc6hnJa2jm0T13XIeRlAGIwj17q/view?usp=sharing">Thiết kế giao diện người dùng với công cụ thiết kế Android Studio (GG Drive).</a>
 
 4.<a href="https://github.com/HuyThirtyminutes/BasicView">Các views cơ bản trong giao diện ứng dụng Android.</a>
 
@@ -28,7 +28,7 @@ Lớp:CTT12CD3A
 
 10.<a href="https://github.com/HuyThirtyminutes/SQLiteDemoApplicationActivity/tree/master">Lập trình cơ sở dữ liệu trong Android (Phần 1).</a>
 
-11.<a href="https://github.com/HuyThirtyminutes/Calculator/tree/master">Tạo một ứng dụng trên android studio.</a>
+11.<a href="https://github.com/HuyThirtyminutes/Calculator/tree/master">(Bài tập) Tạo một ứng dụng trên android studio.</a>
 
 
 
