@@ -12,7 +12,7 @@ Lớp:CTT12CD3A
 
 3.<a href="https://drive.google.com/file/d/1oX7MmWc6hnJa2jm0T13XIeRlAGIwj17q/view?usp=sharing">Thiết kế giao diện người dùng với công cụ thiết kế Android Studio.</a>
 
-<a href=""></a>
+4.<a href="https://github.com/HuyThirtyminutes/BasicView">Các views cơ bản trong giao diện ứng dụng Android</a>
 <a href=""></a>
 <a href=""></a>
 <a href=""></a>
