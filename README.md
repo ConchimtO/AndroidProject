@@ -26,6 +26,8 @@ Lớp:CTT12CD3A
 
 9.<a href="https://github.com/HuyThirtyminutes/FragmentExampleActivtiy/tree/master">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 1).</a>
 
+9.1.<a href="https://github.com/HuyThirtyminutes/ImplicitIntent/tree/master">ĐỐI TƯỢNG INTENT TRONG ANDROID (Phần 2).</a>
+
 10.<a href="https://github.com/HuyThirtyminutes/SQLiteDemoApplicationActivity/tree/master">Lập trình cơ sở dữ liệu trong Android (Phần 1).</a>
 
 11.<a href="https://github.com/HuyThirtyminutes/Calculator/tree/master">(Bài tập) Tạo một ứng dụng trên android studio.</a>
