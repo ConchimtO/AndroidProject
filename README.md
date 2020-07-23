@@ -37,6 +37,10 @@ Lớp:CTT12CD3A
 
 Biên tập vào ngày 7/22/2020.
 
-Thực hiện bởi: Nguyễn Gia Huy.  ![image](https://wikici.com/Upload/chu-ky/chu-ky-ten-huy-goodwish-italic-personaluse-otf.jpeg)
+Thực hiện bởi: Nguyễn Gia Huy. 
+
+
+![image](https://wikici.com/Upload/chu-ky/chu-ky-ten-huy-goodwish-italic-personaluse-otf.jpeg)
+ 
  
  ![image](https://cdna.artstation.com/p/assets/images/images/028/724/424/large/alessandro-poli-ill-longtooth.jpg?1595330125)
